@@ -1,0 +1,10 @@
+pychan
+transformers
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+requests
+beautifulsoup4
+torch
