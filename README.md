@@ -23,6 +23,7 @@ This project analyzes fan sentiment for Arsenal FC by processing discussions fro
 - `torch` (or `tensorflow` depending on the transformers backend)
 - `scipy`
 
+
 ## Usage
 1.  Clone the repository.
 2.  Install the required dependencies.
@@ -35,3 +36,6 @@ This project analyzes fan sentiment for Arsenal FC by processing discussions fro
 ## Acknowledgements
 -   Data provided by Reddit and Soccerbase.
 -   Sentiment model by Cardiff NLP.
+
+  <img width="4157" height="2068" alt="Arsenal_sentiment_analysis" src="https://github.com/user-attachments/assets/81f0d86d-5f8d-48b5-9ea5-8a0e6cdb0798" />
+<img width="4160" height="2068" alt="Tottenham_sentiment_analysis" src="https://github.com/user-attachments/assets/a1d0fe21-b22c-444d-a6e3-f9eafca24729" />
