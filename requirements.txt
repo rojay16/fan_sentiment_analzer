@@ -1,4 +1,5 @@
 pychan
+jupyter
 transformers
 numpy
 pandas
